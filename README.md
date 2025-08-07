@@ -20,7 +20,6 @@ EXPORT OPENAI_API_KEY='YOUR_API_KEY'
 
 3. Run the script with the prompt and specify the output file where the response will be saved. 
 
-```bash
 Usage:
 ```bash
 python main.py <your input> <output_file>
